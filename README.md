@@ -7,7 +7,7 @@
 <h3>
 Most of these projects were just made for me and put here for easy access and anyone who needs it.
 <br></br>
-  (I also don't have other public social media.)
+  (I also don't have any other public social media.)
 </h3>
 
 </div>
