@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/File:Great_Seal_of_the_United_States_(obverse).svg#/media/File:Great_Seal_of_the_United_States_(obverse).svg" width="40%" />
 </p>   
+
 <h1 align="center">Carter Bryan's Github</h1>
 <div align="center">
 
