@@ -15,7 +15,7 @@ Most of these projects were just made for me and put here for easy access and an
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carterlb-com&label=Profile%20views&color=e77123&style=plastic" alt="carterlb-com" /> </p>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterlb-com" alt="Top Languages" />
 </div>   
 
