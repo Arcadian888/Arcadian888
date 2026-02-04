@@ -9,7 +9,7 @@
 <div align="center">
 
 <h2>
-  American programmer. <br>
+  18 year old American programmer. <br>
   <sub>on & off programming for 3 years, and stop for 2, <br> so I'm relearning alot as I go. started learning C# and Unity at 12 or 13</sub>
 </h2>
 
