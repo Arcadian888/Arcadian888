@@ -3,8 +3,6 @@
   <img width="200" alt="image" src="https://github.com/CarterLB-COM/CarterLB-COM/blob/7ca8ed989ae5075705291f95869559589fa917a4/images/Arizona.svg" alt="Arizona state flag"/>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarterLB-COM&label=Profile%20views&color=e77123&style=plastic" alt="carterlb-com" /> </p>
-
 <h1 align="center">
   18 year old American programmer. <br>
   <sub>on & off programming for (approx) 3 years, and stop for 2, <br> so I'm relearning alot as I go. started learning C# and Unity at 12 or 13</sub>
@@ -26,3 +24,5 @@
 </h1>
 
 <h5>Most of these projects were originally made for my own use, <br> but I’m sharing them here for anyone who finds them helpful. <br></h5>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarterLB-COM&label=Profile%20views&color=e77123" alt="carterlb-com" /> </p>
