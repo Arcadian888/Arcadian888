@@ -10,8 +10,8 @@
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Status-Active-green">
 </p>
-<div align="center">
 
+<div align="center">
 
 ![GitHub stats](https://carterlb-com-stats.vercel.app/api?username=CarterLB-COM&theme=transparent&show_icons=true)
 [![Top Langs](https://carterlb-com-stats.vercel.app/api/top-langs/?username=CarterLB-COM&theme=transparent&show_icons=true&langs_count=3)](https://github.com/CarterLB-COM/carterlb-com-stats)
