@@ -5,7 +5,7 @@
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Active-gray?labelColor=green">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarterLB-COM?style=flat-square&logo=github&color=FF4500">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarterLB-COM?style=flat&logo=github&color=FF4500">
 </p>
 
 <hr>
