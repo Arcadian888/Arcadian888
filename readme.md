@@ -1,4 +1,5 @@
-![card](https://github.com/user-attachments/assets/f21b6ca3-5011-4126-a36f-1722b35eb163)
+
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/ea542531-ae24-41ca-a62b-3d1ea5aba879" /></p>
 
 <p align="center">
   <a href="https://x.com/CarterLBCOM"><img alt="Static Badge" src="https://img.shields.io/badge/CarterLB--COM-black?style=for-the-badge&logo=X" width=200px></a>
