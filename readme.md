@@ -15,8 +15,8 @@
 
 <div align="center">
 
-![GitHub stats](https://carterlb-com-stats.vercel.app/api?username=CarterLB-COM&theme=transparent&show_icons=true)
-[![Top Langs](https://carterlb-com-stats.vercel.app/api/top-langs/?username=CarterLB-COM&theme=transparent&show_icons=true&langs_count=3)](https://github.com/CarterLB-COM/carterlb-com-stats)
+![GitHub stats](https://carter374-stats.vercel.app/api?username=CarterLB-COM&theme=transparent&show_icons=true)
+[![Top Langs](https://carter374-stats.vercel.app/api/top-langs/?username=CarterLB-COM&theme=transparent&show_icons=true&langs_count=3)](https://github.com/CarterLB-COM/carterlb-com-stats)
 
 <h1 align="center">Toolbox:
   <br><sub><p align="center">
