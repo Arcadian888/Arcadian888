@@ -3,9 +3,9 @@
 </p>
 
 <p>
-  Hello 👋 <br>
-  • Most of these projects were originally made for my own use, but I’m sharing them here for anyone who finds them helpful.
-</p>
+  <h2>Hello <br>
+    <sub><h3>•Most of these projects were originally made for my own use, but I’m sharing them here for anyone who finds them helpful.</h3></sub>
+  </h2></p>
 
 <p>
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Arcadian888?style=for-the-badge&logo=star&label=Github%20Stars&labelColor=black&color=gold" width=200px>
