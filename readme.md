@@ -2,12 +2,16 @@
   <img width="400" alt="image" src="images/United States.svg" alt="United States flag"/>
 </p>
 
-<h1>Basic stuff, nothing to special.</h1>
+<h1><details>
+  <summary>Details</summary>
+  Basic stuff, nothing to special.
+</details></h1>
 
 <div align="center">
+  
+  ![GitHub stats](https://Arcadian888-stats.vercel.app/api?username=Arcadian888&theme=shadow_red&show_icons=true)
+  [![Top Langs](https://Arcadian888-stats.vercel.app/api/top-langs/?username=Arcadian888&theme=shadow_red&show_icons=true&langs_count=3)](https://github.com/Arcadian888/Arcadian888-stats)
 
-![GitHub stats](https://Arcadian888-stats.vercel.app/api?username=Arcadian888&theme=shadow_red&show_icons=true)
-[![Top Langs](https://Arcadian888-stats.vercel.app/api/top-langs/?username=Arcadian888&theme=shadow_red&show_icons=true&langs_count=3)](https://github.com/Arcadian888/Arcadian888-stats)
 </div>
 
 <h1 align="center">Toolbox:
