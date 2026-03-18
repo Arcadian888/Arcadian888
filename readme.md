@@ -2,10 +2,7 @@
   <img width="400" alt="image" src="images/United States.svg" alt="United States flag"/>
 </p>
 
-<h1><details>
-  <summary>Details</summary>
-  Basic stuff, nothing to special.
-</details></h1>
+<hr>
 
 <div align="center">
   
