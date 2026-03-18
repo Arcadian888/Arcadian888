@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Arcadian888?style=for-the-badge&logo=github&label=Github%20Stars&labelColor=black&color=darkred" width=200px>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Hours wasted-2387489237-white?style=for-the-badge&logo=github&labelColor=black" width=200px>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Hours wasted-2387489237-white?style=for-the-badge&logo=github&labelColor=black" width=305px>
 </p>
 
 <h1>Basic stuff, nothing to special.</h1>
